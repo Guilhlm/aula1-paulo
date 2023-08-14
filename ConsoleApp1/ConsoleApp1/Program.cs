@@ -15,33 +15,35 @@ namespace ConsoleApp1
 
             // string (cadeia)
             // int (inteiro)
-            // flowt (real)
+            // float (real)
 
 
-            int numero1;
-            int numero2;
-            int numero3;
-            int numero4;
-            int soma;
-
+            float numero1;
+            float numero2;
+            float numero3;
+            float numero4;
+            float soma;
+            float subtracao;
+            float divisao;
+            float multiplicacao;
 
 
 
             Console.Write("digite um numero: ");
 
-            numero1 = int.Parse (Console.ReadLine());
+            numero1 = float.Parse (Console.ReadLine());
 
             Console.Write("digite o segundo numero: ");
 
-            numero2 = int.Parse (Console.ReadLine());
+            numero2 = float.Parse (Console.ReadLine());
 
             Console.Write("digite o terceiro numero: ");
 
-            numero3 = int.Parse(Console.ReadLine());
+            numero3 = float.Parse(Console.ReadLine());
 
             Console.Write("digite o quarto numero: ");
 
-            numero4 = int.Parse(Console.ReadLine());
+            numero4 = float.Parse(Console.ReadLine());
 
 
 
@@ -49,32 +51,43 @@ namespace ConsoleApp1
 
 
 
-            Console.WriteLine("o valor digitado foi: " + numero1);
-
-            Console.WriteLine(" ");
+            Console.WriteLine("o primeiro valor digitado foi: " + numero1);
             
-            Console.WriteLine("o valor digitado foi: " + numero2);
+            Console.WriteLine("o segundo valor digitado foi: " + numero2);
+  
+            Console.WriteLine("o terceiro valor digitado foi: " + numero3);
+
+            Console.WriteLine("o quarto valor digitado foi: " + numero4);
+
 
             Console.WriteLine(" ");
 
-            Console.WriteLine("o valor digitado foi: " + numero3);
-
-            Console.WriteLine(" ");
-
-            Console.WriteLine("o valor digitado foi: " + numero4);
-
-            Console.WriteLine(" ");
-
-
+    
             soma = numero1 + numero2 + numero3 + numero4;  
-            
-            
-            Console.WriteLine("o valor total foi: " + soma);
+
+            subtracao = numero1 - numero2 - numero3 - numero4;
+
+            multiplicacao = numero1 * numero2 * numero3 + numero4;
+
+            divisao = numero1 / numero2 / numero3 / numero4;
 
 
+            Console.WriteLine("o resultado da divisao foi: " + divisao);
+
+            Console.WriteLine(" ");
+
+            Console.WriteLine("o resultado da soma foi: " + soma);
+
+            Console.WriteLine(" ");
+
+            Console.WriteLine("o resultado da multiplicacao foi: " + multiplicacao);
+
+            Console.WriteLine(" ");
+
+            Console.WriteLine("o resultado da subtracao foi: " + subtracao);
 
 
-           Console.ReadKey();
+            Console.ReadKey();
         }
     }
 }

@@ -1,0 +1,8 @@
+C:\Users\guilherme.lmaia\source\repos\aula1-paulo\att1 do paulin\att1 do paulin\obj\Debug\att1 do paulin.csproj.AssemblyReference.cache
+C:\Users\guilherme.lmaia\source\repos\aula1-paulo\att1 do paulin\att1 do paulin\obj\Debug\att1 do paulin.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilherme.lmaia\source\repos\aula1-paulo\att1 do paulin\att1 do paulin\obj\Debug\att1 do paulin.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.lmaia\source\repos\aula1-paulo\att1 do paulin\att1 do paulin\bin\Debug\att1 do paulin.exe.config
+C:\Users\guilherme.lmaia\source\repos\aula1-paulo\att1 do paulin\att1 do paulin\bin\Debug\att1 do paulin.exe
+C:\Users\guilherme.lmaia\source\repos\aula1-paulo\att1 do paulin\att1 do paulin\bin\Debug\att1 do paulin.pdb
+C:\Users\guilherme.lmaia\source\repos\aula1-paulo\att1 do paulin\att1 do paulin\obj\Debug\att1 do paulin.exe
+C:\Users\guilherme.lmaia\source\repos\aula1-paulo\att1 do paulin\att1 do paulin\obj\Debug\att1 do paulin.pdb
